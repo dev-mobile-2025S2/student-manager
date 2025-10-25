@@ -17,6 +17,8 @@ import com.example.textview.R;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.button.MaterialButton;
 
+import java.util.Locale;
+
 public class ProfileFragment extends Fragment {
 
     private TextView tvProfileInitial, tvProfileName, tvProfileEmail;
@@ -57,7 +59,7 @@ public class ProfileFragment extends Fragment {
 
         if (userName != null && !userName.isEmpty()) {
             tvProfileName.setText(userName);
-            tvProfileInitial.setText(String.valueOf(userName.charAt(0)).toUpperCase());
+            tvProfileInitial.setText(String.valueOf(userName.charAt(0)).toUpperCase(Locale.ROOT));
         }
 
         if (userEmail != null && !userEmail.isEmpty()) {

@@ -93,7 +93,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_menu_edit"
-                        android:tint="@color/primary" />
+                        app:tint="@color/primary" />
 
                     <TextView
                         android:layout_width="0dp"
@@ -108,7 +108,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_menu_send"
-                        android:tint="@color/text_secondary" />
+                        app:tint="@color/text_secondary" />
                 </LinearLayout>
 
                 <View
@@ -131,7 +131,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_dialog_info"
-                        android:tint="@color/primary" />
+                        app:tint="@color/primary" />
 
                     <TextView
                         android:layout_width="0dp"
@@ -146,7 +146,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_menu_send"
-                        android:tint="@color/text_secondary" />
+                        app:tint="@color/text_secondary" />
                 </LinearLayout>
 
                 <View
@@ -169,7 +169,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_dialog_info"
-                        android:tint="@color/primary" />
+                        app:tint="@color/primary" />
 
                     <TextView
                         android:layout_width="0dp"
@@ -184,7 +184,7 @@
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:src="@android:drawable/ic_menu_send"
-                        android:tint="@color/text_secondary" />
+                        app:tint="@color/text_secondary" />
                 </LinearLayout>
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>

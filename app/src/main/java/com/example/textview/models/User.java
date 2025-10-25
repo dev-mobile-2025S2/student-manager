@@ -1,5 +1,7 @@
 package com.example.textview.models;
 
+import java.util.Locale;
+
 public class User {
     private String fullName;
     private String email;
@@ -37,9 +39,9 @@ public class User {
 
     public String getInitial() {
         if (fullName != null && !fullName.isEmpty()) {
-            return String.valueOf(fullName.charAt(0)).toUpperCase();
+            return String.valueOf(fullName.charAt(0)).toUpperCase(Locale.ROOT);
         } else if (email != null && !email.isEmpty()) {
-            return String.valueOf(email.charAt(0)).toUpperCase();
+            return String.valueOf(email.charAt(0)).toUpperCase(Locale.ROOT);
         }
         return "E";
     }

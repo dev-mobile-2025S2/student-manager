@@ -7,7 +7,8 @@
       "Bash(java -version:*)",
       "Read(//opt/homebrew/Cellar/**)",
       "Bash(/usr/libexec/java_home:*)",
-      "Bash(./gradlew clean:*)"
+      "Bash(./gradlew clean:*)",
+      "Bash(./gradlew build:*)"
     ],
     "deny": [],
     "ask": []

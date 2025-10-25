@@ -65,7 +65,7 @@
                             android:layout_height="20dp"
                             android:layout_gravity="center"
                             android:src="@android:drawable/ic_menu_my_calendar"
-                            android:tint="@color/white" />
+                            app:tint="@color/white" />
                     </FrameLayout>
 
                     <LinearLayout
@@ -121,7 +121,7 @@
                             android:layout_height="20dp"
                             android:layout_gravity="center"
                             android:src="@android:drawable/ic_menu_my_calendar"
-                            android:tint="@color/white" />
+                            app:tint="@color/white" />
                     </FrameLayout>
 
                     <LinearLayout

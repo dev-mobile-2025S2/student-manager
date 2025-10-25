@@ -67,9 +67,9 @@
                     android:id="@+id/tv_data"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:drawableStart="@android:drawable/ic_menu_my_calendar"
+                    app:drawableStartCompat="@android:drawable/ic_menu_my_calendar"
                     android:drawablePadding="4dp"
-                    android:drawableTint="@color/text_tertiary"
+                    app:drawableTint="@color/text_tertiary"
                     android:text="10/10/2024"
                     android:textColor="@color/text_tertiary"
                     android:textSize="11sp" />
@@ -79,9 +79,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:drawableStart="@android:drawable/ic_menu_recent_history"
+                    app:drawableStartCompat="@android:drawable/ic_menu_recent_history"
                     android:drawablePadding="4dp"
-                    android:drawableTint="@color/text_tertiary"
+                    app:drawableTint="@color/text_tertiary"
                     android:text="14:00"
                     android:textColor="@color/text_tertiary"
                     android:textSize="11sp" />
@@ -97,6 +97,6 @@
             android:contentDescription="@string/delete"
             android:padding="8dp"
             android:src="@android:drawable/ic_menu_delete"
-            android:tint="@color/red_500" />
+            app:tint="@color/red_500" />
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>
