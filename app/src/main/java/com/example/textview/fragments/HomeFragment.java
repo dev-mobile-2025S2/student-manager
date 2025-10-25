@@ -5,9 +5,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -160,6 +162,28 @@ public class HomeFragment extends Fragment {
     }
 
     private void onAvaliacaoClick(Avaliacao avaliacao) {
-        // TODO: Open avaliacao details or delete
+        // Show delete confirmation dialog
+        new AlertDialog.Builder(requireContext())
+                .setTitle("Excluir Avaliação")
+                .setMessage("Deseja realmente excluir a avaliação \"" + avaliacao.getTitulo() + "\"?")
+                .setPositiveButton("Excluir", (dialog, which) -> {
+                    deleteAvaliacao(avaliacao);
+                })
+                .setNegativeButton("Cancelar", null)
+                .show();
+    }
+
+    private void deleteAvaliacao(Avaliacao avaliacao) {
+        Executors.newSingleThreadExecutor().execute(() -> {
+            avaliacaoRepository.delete(avaliacao);
+
+            if (getActivity() != null) {
+                getActivity().runOnUiThread(() -> {
+                    Toast.makeText(requireContext(), "Avaliação excluída com sucesso", Toast.LENGTH_SHORT).show();
+                    loadStats();
+                    loadRecentActivity();
+                });
+            }
+        });
     }
 }

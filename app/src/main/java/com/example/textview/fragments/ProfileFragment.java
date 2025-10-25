@@ -1,5 +1,6 @@
 package com.example.textview.fragments;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,8 +11,10 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 
+import com.example.textview.AboutActivity;
 import com.example.textview.R;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.button.MaterialButton;
@@ -66,25 +69,43 @@ public class ProfileFragment extends Fragment {
 
     private void setupClickListeners() {
         optionEditProfile.setOnClickListener(v -> {
-            // TODO: Open edit profile screen
-            Toast.makeText(requireContext(), "Editar Perfil", Toast.LENGTH_SHORT).show();
+            // Edit profile - will be implemented in future
+            Toast.makeText(requireContext(), "Editar Perfil - Em desenvolvimento", Toast.LENGTH_SHORT).show();
         });
 
         optionNotifications.setOnClickListener(v -> {
-            // TODO: Open notifications settings
-            Toast.makeText(requireContext(), "Configurações de Notificações", Toast.LENGTH_SHORT).show();
+            // Notifications settings - will be implemented in future
+            Toast.makeText(requireContext(), "Configurações de Notificações - Em desenvolvimento", Toast.LENGTH_SHORT).show();
         });
 
         optionAbout.setOnClickListener(v -> {
-            // TODO: Show about dialog
-            Toast.makeText(requireContext(), "Sobre o App", Toast.LENGTH_SHORT).show();
+            // Open About Activity
+            Intent intent = new Intent(requireContext(), AboutActivity.class);
+            startActivity(intent);
         });
 
         btnLogout.setOnClickListener(v -> {
-            // TODO: Implement logout logic
-            sharedPrefManager.clearUser();
-            Toast.makeText(requireContext(), "Logout realizado", Toast.LENGTH_SHORT).show();
-            // TODO: Navigate to login screen or restart app
+            // Show logout confirmation dialog
+            showLogoutDialog();
         });
+    }
+
+    private void showLogoutDialog() {
+        new AlertDialog.Builder(requireContext())
+                .setTitle("Sair da Conta")
+                .setMessage("Deseja realmente sair da sua conta?")
+                .setPositiveButton("Sim", (dialog, which) -> {
+                    performLogout();
+                })
+                .setNegativeButton("Cancelar", null)
+                .show();
+    }
+
+    private void performLogout() {
+        sharedPrefManager.clearUser();
+        Toast.makeText(requireContext(), "Logout realizado com sucesso", Toast.LENGTH_SHORT).show();
+
+        // Refresh the fragment to show default values
+        loadUserData();
     }
 }

@@ -1,8 +1,11 @@
 package com.example.textview;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageButton;
+import android.widget.Toast;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -12,6 +15,7 @@ import com.example.textview.fragments.CalendarFragment;
 import com.example.textview.fragments.HomeFragment;
 import com.example.textview.fragments.ProfileFragment;
 import com.example.textview.fragments.SubjectsFragment;
+import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 
@@ -46,7 +50,9 @@ public class MainActivity extends AppCompatActivity {
 
         ImageButton btnNotifications = findViewById(R.id.btn_notifications);
         btnNotifications.setOnClickListener(v -> {
-            // TODO: Implement notifications
+            // Open Notifications Activity
+            Intent intent = new Intent(this, NotificationsActivity.class);
+            startActivity(intent);
         });
     }
 
@@ -72,12 +78,15 @@ public class MainActivity extends AppCompatActivity {
                 loadFragment(new ProfileFragment());
                 bottomNavigation.setSelectedItemId(R.id.navigation_profile);
             } else if (id == R.id.nav_settings) {
-                // TODO: Open settings
+                // Open settings - will be implemented as a dialog or new screen
+                Toast.makeText(this, "Configurações em desenvolvimento", Toast.LENGTH_SHORT).show();
             } else if (id == R.id.nav_about) {
-                // TODO: Show about dialog
+                // Open About Activity
+                Intent intent = new Intent(this, AboutActivity.class);
+                startActivity(intent);
             } else if (id == R.id.nav_logout) {
-                // TODO: Handle logout
-                // Restart app or go to login
+                // Handle logout with confirmation dialog
+                showLogoutDialog();
             }
 
             drawerLayout.closeDrawer(GravityCompat.START);
@@ -114,6 +123,28 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         return false;
+    }
+
+    private void showLogoutDialog() {
+        new AlertDialog.Builder(this)
+                .setTitle("Sair da Conta")
+                .setMessage("Deseja realmente sair da sua conta?")
+                .setPositiveButton("Sim", (dialog, which) -> {
+                    performLogout();
+                })
+                .setNegativeButton("Cancelar", null)
+                .show();
+    }
+
+    private void performLogout() {
+        SharedPrefManager sharedPrefManager = new SharedPrefManager(this);
+        sharedPrefManager.clearUser();
+
+        Toast.makeText(this, "Logout realizado com sucesso", Toast.LENGTH_SHORT).show();
+
+        // Reset to home fragment
+        loadFragment(new HomeFragment());
+        bottomNavigation.setSelectedItemId(R.id.navigation_home);
     }
 
     @Override

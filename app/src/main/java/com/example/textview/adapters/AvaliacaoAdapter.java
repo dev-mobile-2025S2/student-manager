@@ -5,17 +5,21 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
+
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
 import com.example.textview.R;
 import com.example.textview.models.Avaliacao;
 import com.example.textview.utils.DateUtils;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class AvaliacaoAdapter extends RecyclerView.Adapter<AvaliacaoAdapter.AvaliacaoViewHolder> {
     private List<Avaliacao> avaliacoes = new ArrayList<>();
     private OnAvaliacaoClickListener listener;
+    private boolean showDeleteButton = true;
 
     public interface OnAvaliacaoClickListener {
         void onDeleteClick(Avaliacao avaliacao);
@@ -23,6 +27,11 @@ public class AvaliacaoAdapter extends RecyclerView.Adapter<AvaliacaoAdapter.Aval
 
     public AvaliacaoAdapter(OnAvaliacaoClickListener listener) {
         this.listener = listener;
+    }
+
+    public AvaliacaoAdapter(OnAvaliacaoClickListener listener, boolean showDeleteButton) {
+        this.listener = listener;
+        this.showDeleteButton = showDeleteButton;
     }
 
     @NonNull
@@ -70,11 +79,17 @@ public class AvaliacaoAdapter extends RecyclerView.Adapter<AvaliacaoAdapter.Aval
             tvData.setText(DateUtils.formatToDisplay(avaliacao.getData()));
             tvHorario.setText(avaliacao.getHorario());
 
-            btnDelete.setOnClickListener(v -> {
-                if (listener != null) {
-                    listener.onDeleteClick(avaliacao);
-                }
-            });
+            // Show or hide delete button based on adapter configuration
+            if (showDeleteButton) {
+                btnDelete.setVisibility(View.VISIBLE);
+                btnDelete.setOnClickListener(v -> {
+                    if (listener != null) {
+                        listener.onDeleteClick(avaliacao);
+                    }
+                });
+            } else {
+                btnDelete.setVisibility(View.GONE);
+            }
         }
     }
 }

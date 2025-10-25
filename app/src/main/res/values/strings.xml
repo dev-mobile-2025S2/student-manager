@@ -93,6 +93,21 @@
     <string name="settings">Configurações</string>
     <string name="about_app">Sobre o App</string>
 
+    <!-- About Screen -->
+    <string name="project_info">Informações do Projeto</string>
+    <string name="project_description">Este projeto foi desenvolvido durante o 6º semestre na matéria de Desenvolvimento Mobile em 2025S2 na Facens.\n\nO Student Manager é um aplicativo para organização acadêmica, permitindo gerenciar matérias, provas e cronometrar estudos.</string>
+    <string name="developers">Desenvolvedores</string>
+    <string name="dev1_name">Bruno da Silveira Escanhoela</string>
+    <string name="dev1_ra">RA: 236793</string>
+    <string name="dev2_name">Gabriel Ferreira do Nascimento</string>
+    <string name="dev2_ra">RA: 236085</string>
+    <string name="dev3_name">Guilherme Soares Coelho</string>
+    <string name="dev3_ra">RA: 235092</string>
+    <string name="dev4_name">Gustavo Oliveira Gomes</string>
+    <string name="dev4_ra">RA: 235413</string>
+    <string name="dev5_name">João Guilherme Volta Kinol</string>
+    <string name="dev5_ra">RA: 235255</string>
+
     <!-- Notifications -->
     <string name="notifications">Notificações</string>
     <string name="upcoming_evaluation">%1$d avaliação próxima</string>
