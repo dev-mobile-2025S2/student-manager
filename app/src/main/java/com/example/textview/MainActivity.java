@@ -11,6 +11,7 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
 
+import com.example.textview.fragments.AboutFragment;
 import com.example.textview.fragments.CalendarFragment;
 import com.example.textview.fragments.HomeFragment;
 import com.example.textview.fragments.ProfileFragment;
@@ -81,9 +82,8 @@ public class MainActivity extends AppCompatActivity {
                 // Open settings - will be implemented as a dialog or new screen
                 Toast.makeText(this, "Configurações em desenvolvimento", Toast.LENGTH_SHORT).show();
             } else if (id == R.id.nav_about) {
-                // Open About Activity
-                Intent intent = new Intent(this, AboutActivity.class);
-                startActivity(intent);
+                // Open About Fragment
+                loadFragment(new AboutFragment());
             } else if (id == R.id.nav_logout) {
                 // Handle logout with confirmation dialog
                 showLogoutDialog();

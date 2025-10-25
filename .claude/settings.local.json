@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(del \"C:\\Users\\guilh\\AndroidStudioProjects\\TextView\\app\\src\\main\\res\\drawable\\Captura de tela 2025-10-24 193033.png\")"
+      "Bash(del \"C:\\Users\\guilh\\AndroidStudioProjects\\TextView\\app\\src\\main\\res\\drawable\\Captura de tela 2025-10-24 193033.png\")",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(chmod:*)",
+      "Bash(java -version:*)",
+      "Read(//opt/homebrew/Cellar/**)",
+      "Bash(/usr/libexec/java_home:*)",
+      "Bash(./gradlew clean:*)"
     ],
     "deny": [],
     "ask": []
