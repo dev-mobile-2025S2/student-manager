@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+
+    <!-- Home Screen -->
+    <string name="hello">Olá, %1$s!</string>
+    <string name="organize_studies">Organize seus estudos</string>
+    <string name="scheduled_exams">Provas agendadas</string>
+    <string name="exams_this_week">Provas esta semana</string>
+    <string name="quick_actions">Ações Rápidas</string>
+    <string name="add_subjects">Adicionar Matérias</string>
+    <string name="new_exam">Nova Prova</string>
+    <string name="recent_activity">Atividade Recente</string>
+    <string name="no_activity">Nenhuma atividade ainda</string>
+
+    <!-- Navigation -->
+    <string name="home">Início</string>
+    <string name="subjects">Matérias</string>
+    <string name="calendar">Calendário</string>
+    <string name="profile">Perfil</string>
+
+    <!-- Subjects Screen -->
+    <string name="my_subjects">Minhas Matérias</string>
+    <string name="organize_subjects">Organize suas matérias</string>
+    <string name="add_new_subject">Adicionar Nova Matéria</string>
+    <string name="no_subjects">Nenhuma matéria cadastrada</string>
+    <string name="stopwatch">Cronômetro</string>
+    <string name="back_to_dashboard">Voltar ao Dashboard</string>
+
+    <!-- Add Subject -->
+    <string name="add_subject">Adicionar Matéria</string>
+    <string name="register_new_subject">Cadastre uma nova matéria</string>
+    <string name="subject_name">Nome da Matéria</string>
+    <string name="subject_name_hint">Ex: Matemática</string>
+    <string name="code">Código</string>
+    <string name="code_hint">Ex: MAT001</string>
+    <string name="professor_optional">Professor (opcional)</string>
+    <string name="professor_name">Nome do professor</string>
+    <string name="workload_optional">Carga Horária (opcional)</string>
+    <string name="workload_hint">Ex: 01:30:00</string>
+    <string name="adding">Adicionando...</string>
+    <string name="add_subject_button">Adicionar Matéria</string>
+
+    <!-- Register Exam -->
+    <string name="register_exam">Cadastrar Prova</string>
+    <string name="add_organize_exams">Adicione e organize suas avaliações</string>
+    <string name="new_evaluation">Nova Avaliação</string>
+    <string name="evaluation_title">Título da Avaliação</string>
+    <string name="evaluation_title_hint">Ex: Prova de Álgebra Linear</string>
+    <string name="subject">Matéria</string>
+    <string name="select_subject">Selecione a matéria</string>
+    <string name="evaluation_type">Tipo de Avaliação</string>
+    <string name="exam">Prova</string>
+    <string name="assignment">Trabalho</string>
+    <string name="seminar">Seminário</string>
+    <string name="project">Projeto</string>
+    <string name="evaluation_date">Data da Avaliação</string>
+    <string name="time">Horário</string>
+    <string name="add_evaluation">Adicionar Avaliação</string>
+    <string name="registered_evaluations">Avaliações Cadastradas</string>
+    <string name="no_evaluations">Nenhuma avaliação cadastrada</string>
+    <string name="back">Voltar</string>
+    <string name="view_calendar">Ver Calendário</string>
+    <string name="delete_confirmation">Deseja excluir a avaliação "%1$s"?</string>
+
+    <!-- Calendar -->
+    <string name="exam_calendar">Calendário de Provas</string>
+    <string name="view_organize_evaluations">Visualize e organize suas avaliações</string>
+    <string name="days_with_evaluations">Dias com avaliações</string>
+    <string name="no_evaluation_this_day">Nenhuma avaliação neste dia</string>
+    <string name="upcoming_evaluations">Próximas Avaliações</string>
+    <string name="no_scheduled_evaluations">Nenhuma avaliação agendada</string>
+
+    <!-- Profile -->
+    <string name="my_account">Minha Conta</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="logout_account">Sair da Conta</string>
+    <string name="logout_confirmation">Deseja realmente sair da conta?</string>
+    <string name="version">Student Manager v1.0.0</string>
+
+    <!-- Stopwatch -->
+    <string name="study_stopwatch">Cronômetro de Estudos</string>
+    <string name="studying">Estudando...</string>
+    <string name="paused">Pausado</string>
+    <string name="reset">Resetar</string>
+    <string name="start">Iniciar</string>
+    <string name="pause">Pausar</string>
+    <string name="total_studied_time">Tempo total estudado:</string>
+    <string name="reset_confirmation">Deseja resetar o cronômetro? O tempo estudado será zerado.</string>
+
+    <!-- Menu -->
+    <string name="settings">Configurações</string>
+    <string name="about_app">Sobre o App</string>
+
+    <!-- Notifications -->
+    <string name="notifications">Notificações</string>
+    <string name="upcoming_evaluation">%1$d avaliação próxima</string>
+    <string name="upcoming_evaluations_plural">%1$d avaliações próximas</string>
+    <string name="urgent_evaluation">%1$d avaliação urgente!</string>
+    <string name="urgent_evaluations_plural">%1$d avaliações urgentes!</string>
+    <string name="all_clear">Tudo em dia!</string>
+    <string name="no_upcoming_evaluations">Você não tem avaliações próximas no momento</string>
+    <string name="today">Hoje!</string>
+    <string name="tomorrow">Amanhã</string>
+    <string name="in_days">Em %1$d dias</string>
+    <string name="in_one_day">Em 1 dia</string>
+
+    <!-- Common -->
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="student">Estudante</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>

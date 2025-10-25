@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"C:\\Users\\guilh\\AndroidStudioProjects\\TextView\\app\\src\\main\\res\\drawable\\Captura de tela 2025-10-24 193033.png\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
