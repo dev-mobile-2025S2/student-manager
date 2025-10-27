@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Gradle cache and wrapper distributions
+gradle/caches/
+gradle/wrapper/dists/
