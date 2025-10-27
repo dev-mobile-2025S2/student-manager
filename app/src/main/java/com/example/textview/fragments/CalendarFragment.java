@@ -23,9 +23,13 @@ import com.example.textview.models.Avaliacao;
 import com.example.textview.repository.AvaliacaoRepository;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
+import java.util.Set;
 import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
@@ -35,6 +39,7 @@ public class CalendarFragment extends Fragment {
     private RecyclerView recyclerExams;
     private FloatingActionButton fabAddExam;
     private TextView tvEmptyState;
+    private TextView tvDaysWithExams;
     private AvaliacaoAdapter avaliacaoAdapter;
     private AvaliacaoRepository avaliacaoRepository;
     private long selectedDate;
@@ -63,6 +68,7 @@ public class CalendarFragment extends Fragment {
         recyclerExams = view.findViewById(R.id.recycler_exams);
         fabAddExam = view.findViewById(R.id.fab_add_exam);
         tvEmptyState = view.findViewById(R.id.tv_empty_state);
+        tvDaysWithExams = view.findViewById(R.id.tv_days_with_exams);
     }
 
     private void initDatabase() {
@@ -98,7 +104,7 @@ public class CalendarFragment extends Fragment {
         Executors.newSingleThreadExecutor().execute(() -> {
             List<Avaliacao> allAvaliacoes = avaliacaoRepository.getAllSync();
 
-            // Filter for selected date or all future exams
+            // Get start and end of selected day
             Calendar selectedCal = Calendar.getInstance();
             selectedCal.setTimeInMillis(selectedDate);
             selectedCal.set(Calendar.HOUR_OF_DAY, 0);
@@ -110,17 +116,36 @@ public class CalendarFragment extends Fragment {
             endOfDay.set(Calendar.HOUR_OF_DAY, 23);
             endOfDay.set(Calendar.MINUTE, 59);
             endOfDay.set(Calendar.SECOND, 59);
+            endOfDay.set(Calendar.MILLISECOND, 999);
 
             long startOfDay = selectedCal.getTimeInMillis();
             long endOfDayTime = endOfDay.getTimeInMillis();
 
-            // Show all future exams, with today's highlighted
+            // Show only exams for the selected day
             List<Avaliacao> filteredAvaliacoes = allAvaliacoes.stream()
-                    .filter(a -> a.getDataAsDate().getTime() >= startOfDay)
+                    .filter(a -> {
+                        long avaliacaoTime = a.getDataAsDate().getTime();
+                        return avaliacaoTime >= startOfDay && avaliacaoTime <= endOfDayTime;
+                    })
                     .collect(Collectors.toList());
+
+            // Collect all dates with exams to display
+            SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM", Locale.getDefault());
+            Set<String> examDatesFormatted = new HashSet<>();
+            for (Avaliacao avaliacao : allAvaliacoes) {
+                examDatesFormatted.add(dateFormat.format(avaliacao.getDataAsDate()));
+            }
+
+            String daysWithExamsText = examDatesFormatted.isEmpty()
+                    ? "Nenhum dia com atividades"
+                    : String.join(", ", examDatesFormatted);
 
             if (getActivity() != null) {
                 getActivity().runOnUiThread(() -> {
+                    // Update days with exams text
+                    tvDaysWithExams.setText(daysWithExamsText);
+
+                    // Update exam list
                     if (filteredAvaliacoes.isEmpty()) {
                         tvEmptyState.setVisibility(View.VISIBLE);
                         recyclerExams.setVisibility(View.GONE);

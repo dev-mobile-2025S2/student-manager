@@ -113,14 +113,28 @@ public class HomeFragment extends Fragment {
             int weekCount = 0;
 
             Calendar calendar = Calendar.getInstance();
+
+            // Start of today
+            calendar.set(Calendar.HOUR_OF_DAY, 0);
+            calendar.set(Calendar.MINUTE, 0);
+            calendar.set(Calendar.SECOND, 0);
+            calendar.set(Calendar.MILLISECOND, 0);
             long currentTime = calendar.getTimeInMillis();
 
-            // Get end of this week
-            calendar.set(Calendar.DAY_OF_WEEK, Calendar.SUNDAY);
-            calendar.set(Calendar.HOUR_OF_DAY, 23);
-            calendar.set(Calendar.MINUTE, 59);
-            calendar.set(Calendar.SECOND, 59);
-            long endOfWeek = calendar.getTimeInMillis();
+            // Get end of this week (Sunday)
+            Calendar endWeekCal = Calendar.getInstance();
+            endWeekCal.set(Calendar.DAY_OF_WEEK, Calendar.SUNDAY);
+            endWeekCal.set(Calendar.HOUR_OF_DAY, 23);
+            endWeekCal.set(Calendar.MINUTE, 59);
+            endWeekCal.set(Calendar.SECOND, 59);
+            endWeekCal.set(Calendar.MILLISECOND, 999);
+
+            // If Sunday is in the past, move to next Sunday
+            if (endWeekCal.getTimeInMillis() < currentTime) {
+                endWeekCal.add(Calendar.WEEK_OF_YEAR, 1);
+            }
+
+            long endOfWeek = endWeekCal.getTimeInMillis();
 
             for (Avaliacao avaliacao : allAvaliacoes) {
                 long avaliacaoTime = avaliacao.getDataAsDate().getTime();
