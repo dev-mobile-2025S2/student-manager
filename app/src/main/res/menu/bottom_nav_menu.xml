@@ -11,6 +11,11 @@
         android:title="@string/subjects" />
 
     <item
+        android:id="@+id/navigation_study"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/study" />
+
+    <item
         android:id="@+id/navigation_calendar"
         android:icon="@android:drawable/ic_menu_month"
         android:title="@string/calendar" />

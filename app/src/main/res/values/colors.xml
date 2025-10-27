@@ -56,4 +56,10 @@
     <color name="status_active_text">#065F46</color>
     <color name="status_inactive_bg">#F3F4F6</color>
     <color name="status_inactive_text">#374151</color>
+
+    <!-- Chip Colors -->
+    <color name="chip_background">#EFF6FF</color>
+
+    <!-- Card Stroke -->
+    <color name="card_stroke">#E5E7EB</color>
 </resources>

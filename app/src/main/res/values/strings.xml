@@ -129,4 +129,12 @@
     <string name="student">Estudante</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
+
+    <!-- Study Tasks -->
+    <string name="study">Estudo</string>
+    <string-array name="prioridades">
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
 </resources>

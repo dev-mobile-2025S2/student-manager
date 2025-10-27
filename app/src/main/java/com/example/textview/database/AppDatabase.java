@@ -6,14 +6,16 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import com.example.textview.models.Materia;
 import com.example.textview.models.Avaliacao;
+import com.example.textview.models.StudyTask;
 
-@Database(entities = {Materia.class, Avaliacao.class}, version = 1, exportSchema = false)
+@Database(entities = {Materia.class, Avaliacao.class, StudyTask.class}, version = 2, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {
 
     private static AppDatabase instance;
 
     public abstract MateriaDao materiaDao();
     public abstract AvaliacaoDao avaliacaoDao();
+    public abstract StudyTaskDao studyTaskDao();
 
     public static synchronized AppDatabase getInstance(Context context) {
         if (instance == null) {

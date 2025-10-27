@@ -15,6 +15,7 @@ import com.example.textview.fragments.AboutFragment;
 import com.example.textview.fragments.CalendarFragment;
 import com.example.textview.fragments.HomeFragment;
 import com.example.textview.fragments.ProfileFragment;
+import com.example.textview.fragments.StudyFragment;
 import com.example.textview.fragments.SubjectsFragment;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -104,6 +105,8 @@ public class MainActivity extends AppCompatActivity {
                 fragment = new HomeFragment();
             } else if (id == R.id.navigation_subjects) {
                 fragment = new SubjectsFragment();
+            } else if (id == R.id.navigation_study) {
+                fragment = new StudyFragment();
             } else if (id == R.id.navigation_calendar) {
                 fragment = new CalendarFragment();
             } else if (id == R.id.navigation_profile) {
