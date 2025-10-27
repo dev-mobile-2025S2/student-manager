@@ -5,9 +5,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -16,6 +18,7 @@ import com.example.textview.R;
 import com.example.textview.adapters.MateriaAdapter;
 import com.example.textview.database.AppDatabase;
 import com.example.textview.dialogs.AddMateriaDialog;
+import com.example.textview.dialogs.EditMateriaDialog;
 import com.example.textview.dialogs.StudyTimerDialog;
 import com.example.textview.models.Materia;
 import com.example.textview.repository.MateriaRepository;
@@ -63,7 +66,22 @@ public class SubjectsFragment extends Fragment {
     }
 
     private void setupRecyclerView() {
-        materiaAdapter = new MateriaAdapter(this::onCronometroClick);
+        materiaAdapter = new MateriaAdapter(new MateriaAdapter.OnMateriaActionListener() {
+            @Override
+            public void onCronometroClick(Materia materia) {
+                SubjectsFragment.this.onCronometroClick(materia);
+            }
+
+            @Override
+            public void onEditClick(Materia materia) {
+                SubjectsFragment.this.onEditClick(materia);
+            }
+
+            @Override
+            public void onDeleteClick(Materia materia) {
+                SubjectsFragment.this.onDeleteClick(materia);
+            }
+        });
         recyclerSubjects.setLayoutManager(new LinearLayoutManager(requireContext()));
         recyclerSubjects.setAdapter(materiaAdapter);
     }
@@ -98,6 +116,37 @@ public class SubjectsFragment extends Fragment {
     private void onCronometroClick(Materia materia) {
         StudyTimerDialog dialog = StudyTimerDialog.newInstance(materia);
         dialog.show(getParentFragmentManager(), "StudyTimerDialog");
+    }
+
+    private void onEditClick(Materia materia) {
+        EditMateriaDialog dialog = EditMateriaDialog.newInstance(materia);
+        dialog.setOnMateriaUpdatedListener(this::loadSubjects);
+        dialog.show(getParentFragmentManager(), "EditMateriaDialog");
+    }
+
+    private void onDeleteClick(Materia materia) {
+        // Show delete confirmation dialog
+        new AlertDialog.Builder(requireContext())
+                .setTitle("Excluir Matéria")
+                .setMessage("Deseja realmente excluir a matéria \"" + materia.getNome() + "\"?\n\nEsta ação não pode ser desfeita.")
+                .setPositiveButton("Excluir", (dialog, which) -> {
+                    deleteMateria(materia);
+                })
+                .setNegativeButton("Cancelar", null)
+                .show();
+    }
+
+    private void deleteMateria(Materia materia) {
+        Executors.newSingleThreadExecutor().execute(() -> {
+            materiaRepository.delete(materia);
+
+            if (getActivity() != null) {
+                getActivity().runOnUiThread(() -> {
+                    Toast.makeText(requireContext(), "Matéria excluída com sucesso", Toast.LENGTH_SHORT).show();
+                    loadSubjects();
+                });
+            }
+        });
     }
 
     @Override

@@ -15,13 +15,15 @@ import java.util.List;
 
 public class MateriaAdapter extends RecyclerView.Adapter<MateriaAdapter.MateriaViewHolder> {
     private List<Materia> materias = new ArrayList<>();
-    private OnMateriaClickListener listener;
+    private OnMateriaActionListener listener;
 
-    public interface OnMateriaClickListener {
+    public interface OnMateriaActionListener {
         void onCronometroClick(Materia materia);
+        void onEditClick(Materia materia);
+        void onDeleteClick(Materia materia);
     }
 
-    public MateriaAdapter(OnMateriaClickListener listener) {
+    public MateriaAdapter(OnMateriaActionListener listener) {
         this.listener = listener;
     }
 
@@ -51,7 +53,7 @@ public class MateriaAdapter extends RecyclerView.Adapter<MateriaAdapter.MateriaV
 
     class MateriaViewHolder extends RecyclerView.ViewHolder {
         private TextView tvNome, tvCodigo, tvTempo, tvProvasCount;
-        private Button btnCronometro;
+        private Button btnCronometro, btnEdit, btnDelete;
 
         public MateriaViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -60,6 +62,8 @@ public class MateriaAdapter extends RecyclerView.Adapter<MateriaAdapter.MateriaV
             tvTempo = itemView.findViewById(R.id.tv_tempo);
             tvProvasCount = itemView.findViewById(R.id.tv_provas_count);
             btnCronometro = itemView.findViewById(R.id.btn_cronometro);
+            btnEdit = itemView.findViewById(R.id.btn_edit);
+            btnDelete = itemView.findViewById(R.id.btn_delete);
         }
 
         public void bind(Materia materia) {
@@ -71,6 +75,18 @@ public class MateriaAdapter extends RecyclerView.Adapter<MateriaAdapter.MateriaV
             btnCronometro.setOnClickListener(v -> {
                 if (listener != null) {
                     listener.onCronometroClick(materia);
+                }
+            });
+
+            btnEdit.setOnClickListener(v -> {
+                if (listener != null) {
+                    listener.onEditClick(materia);
+                }
+            });
+
+            btnDelete.setOnClickListener(v -> {
+                if (listener != null) {
+                    listener.onDeleteClick(materia);
                 }
             });
         }

@@ -94,6 +94,43 @@
                 app:iconSize="16dp"
                 app:iconTint="@color/blue_600"
                 app:strokeColor="@color/card_blue_border" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btn_edit"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="0dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="4dp"
+                    android:text="Editar"
+                    android:textColor="@color/blue_600"
+                    android:textSize="11sp"
+                    app:icon="@android:drawable/ic_menu_edit"
+                    app:iconSize="14dp"
+                    app:iconTint="@color/blue_600"
+                    app:strokeColor="@color/card_blue_border" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btn_delete"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_width="0dp"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    android:layout_marginStart="4dp"
+                    android:text="Excluir"
+                    android:textColor="@color/red_500"
+                    android:textSize="11sp"
+                    app:icon="@android:drawable/ic_menu_delete"
+                    app:iconSize="14dp"
+                    app:iconTint="@color/red_500"
+                    app:strokeColor="@color/red_500" />
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>

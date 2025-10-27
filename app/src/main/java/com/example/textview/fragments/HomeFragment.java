@@ -138,7 +138,7 @@ public class HomeFragment extends Fragment {
 
             for (Avaliacao avaliacao : allAvaliacoes) {
                 long avaliacaoTime = avaliacao.getDataAsDate().getTime();
-                if (avaliacaoTime > currentTime) {
+                if (avaliacaoTime >= currentTime) {
                     scheduledCount++;
                     if (avaliacaoTime <= endOfWeek) {
                         weekCount++;
