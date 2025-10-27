@@ -1,5 +1,6 @@
 package com.example.textview.fragments;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +14,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 
+import com.example.textview.FeedbackActivity;
+import com.example.textview.NotificationsActivity;
 import com.example.textview.R;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.button.MaterialButton;
@@ -22,7 +25,7 @@ import java.util.Locale;
 public class ProfileFragment extends Fragment {
 
     private TextView tvProfileInitial, tvProfileName, tvProfileEmail;
-    private LinearLayout optionEditProfile, optionNotifications, optionAbout;
+    private LinearLayout optionEditProfile, optionNotifications, optionAbout, optionGoogleCalendar, optionFeedback;
     private MaterialButton btnLogout;
     private SharedPrefManager sharedPrefManager;
 
@@ -50,6 +53,8 @@ public class ProfileFragment extends Fragment {
         optionEditProfile = view.findViewById(R.id.option_edit_profile);
         optionNotifications = view.findViewById(R.id.option_notifications);
         optionAbout = view.findViewById(R.id.option_about);
+        optionGoogleCalendar = view.findViewById(R.id.option_google_calendar);
+        optionFeedback = view.findViewById(R.id.option_feedback);
         btnLogout = view.findViewById(R.id.btn_logout);
     }
 
@@ -74,8 +79,9 @@ public class ProfileFragment extends Fragment {
         });
 
         optionNotifications.setOnClickListener(v -> {
-            // Notifications settings - will be implemented in future
-            Toast.makeText(requireContext(), "Configurações de Notificações - Em desenvolvimento", Toast.LENGTH_SHORT).show();
+            // Open Notifications Activity
+            Intent intent = new Intent(requireContext(), NotificationsActivity.class);
+            startActivity(intent);
         });
 
         optionAbout.setOnClickListener(v -> {
@@ -85,6 +91,17 @@ public class ProfileFragment extends Fragment {
                     .replace(R.id.fragment_container, new AboutFragment())
                     .addToBackStack(null)
                     .commit();
+        });
+
+        optionGoogleCalendar.setOnClickListener(v -> {
+            // Google Calendar integration - coming soon
+            Toast.makeText(requireContext(), "Coming soon...", Toast.LENGTH_SHORT).show();
+        });
+
+        optionFeedback.setOnClickListener(v -> {
+            // Open Feedback Activity
+            Intent intent = new Intent(requireContext(), FeedbackActivity.class);
+            startActivity(intent);
         });
 
         btnLogout.setOnClickListener(v -> {

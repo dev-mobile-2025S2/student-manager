@@ -1349,3 +1349,960 @@ BUILD SUCCESSFUL in 5s
 2025-10-26T22:30:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
 2025-10-26T22:30:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
 2025-10-26T22:30:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:42.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:42.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:42.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:42.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:52.227-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:52.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:30:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:30:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:30:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:02.227-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:12.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:22.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:22.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:22.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:32.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:32.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:42.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:31:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:12.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:12.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:22.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:22.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:42.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:32:52.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:32:52.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:32:52.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:12.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:12.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:12.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:12.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:12.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:12.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:12.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:22.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:22.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:32.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:42.227-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:42.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:33:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:33:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:33:52.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:22.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:42.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:34:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:34:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:34:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:32.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:35:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:35:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:35:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:12.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:12.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:36:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:36:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:36:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:02.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:02.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:12.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:12.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:12.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:16.259-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/src/main/res/layout/fragment_profile.xml.tmp.1472.1761529036248
+2025-10-26T22:37:16.260-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change CREATED /Users/gabrielferreira/projects/student-manager/app/src/main/res/layout/fragment_profile.xml
+2025-10-26T22:37:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:37:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:37:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:37:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:00.081-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/src/main/java/com/example/textview/FeedbackActivity.java.tmp.1472.1761529080076
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:02.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:15.662-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/src/main/java/com/example/textview/fragments/ProfileFragment.java.tmp.1472.1761529095655
+2025-10-26T22:38:15.662-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change CREATED /Users/gabrielferreira/projects/student-manager/app/src/main/java/com/example/textview/fragments/ProfileFragment.java
+2025-10-26T22:38:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:32.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:45.918-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change CREATED /Users/gabrielferreira/projects/student-manager/app/src/main/AndroidManifest.xml
+2025-10-26T22:38:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:38:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:38:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:38:56.507-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/source_set_path_map/debug/mapDebugSourceSetPaths/file-map.txt
+2025-10-26T22:38:56.507-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+2025-10-26T22:38:56.596-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json
+2025-10-26T22:38:56.597-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties
+2025-10-26T22:38:56.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml
+2025-10-26T22:38:56.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/merged_res/debug/mergeDebugResources/layout_fragment_profile.xml.flat
+2025-10-26T22:38:56.643-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/packaged_res/debug/packageDebugResources/layout/fragment_profile.xml
+2025-10-26T22:38:56.643-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+2025-10-26T22:38:56.643-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+2025-10-26T22:38:56.663-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt
+2025-10-26T22:38:56.663-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml
+2025-10-26T22:38:56.663-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/outputs/logs/manifest-merger-debug-report.txt
+2025-10-26T22:38:56.663-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change MODIFIED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+2025-10-26T22:38:56.690-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml
+2025-10-26T22:38:56.690-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/merged_manifests/debug/processDebugManifest/output-metadata.json
+2025-10-26T22:38:56.690-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml
+2025-10-26T22:38:56.690-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/output-metadata.json
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/output-metadata.json
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/symbol_list_with_package_name/debug/processDebugResources/package-aware-r.txt
+2025-10-26T22:38:57.323-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt
+2025-10-26T22:38:58.301-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$5.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$7.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AppDatabase_Impl.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$5.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$1.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$3.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AppDatabase.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$3.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$1.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AppDatabase_Impl$1.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$4.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$6.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$10.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$6.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$4.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao.class
+2025-10-26T22:38:58.302-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$2.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl$2.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$2.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$6.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$8.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$4.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$3.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$1.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/MateriaDao_Impl.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/StudyTaskDao_Impl$5.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database/AvaliacaoDao_Impl$9.class
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/database
+2025-10-26T22:38:58.303-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/MainActivity.class
+2025-10-26T22:38:58.305-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/repository/MateriaRepository.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/repository/AvaliacaoRepository.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/repository/StudyTaskRepository.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/repository
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/NotificationsActivity.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/StudyFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/StudyFragment$1.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/SubjectsFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/AboutFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/HomeFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/ProfileFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/CalendarFragment.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments/SubjectsFragment$1.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/fragments
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/utils/SharedPrefManager.class
+2025-10-26T22:38:58.306-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/utils/DateUtils.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/utils
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models/StudyTask.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models/User.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models/Materia.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models/Avaliacao.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models/Student.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/models
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/MateriaTempoAdapter$MateriaTempoViewHolder.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/AvaliacaoAdapter.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/AvaliacaoAdapter$OnAvaliacaoClickListener.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/StudyTaskAdapter$OnTaskActionListener.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/MateriaAdapter$MateriaViewHolder.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/MateriaAdapter.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/AvaliacaoAdapter$AvaliacaoViewHolder.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/MateriaTempoAdapter.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/StudyTaskAdapter$StudyTaskViewHolder.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/StudyTaskAdapter.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters/MateriaAdapter$OnMateriaActionListener.class
+2025-10-26T22:38:58.307-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/adapters
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddAvaliacaoDialog$OnAvaliacaoAddedListener.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddStudyTaskDialog$OnTaskAddedListener.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddMateriaDialog.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/EditMateriaDialog.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/EditMateriaDialog$OnMateriaUpdatedListener.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddStudyTaskDialog.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddMateriaDialog$OnMateriaAddedListener.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/StudyTimerDialog$1.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/StudyTimerDialog.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs/AddAvaliacaoDialog.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/dialogs
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/MainActivity$1.class
+2025-10-26T22:38:58.309-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview/AboutActivity.class
+2025-10-26T22:38:58.310-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/textview
+2025-10-26T22:38:58.310-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example
+2025-10-26T22:38:58.310-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com
+2025-10-26T22:38:58.310-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview/database/StudyTaskDao_Impl.java
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview/database/AppDatabase_Impl.java
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview/database/AvaliacaoDao_Impl.java
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview/database/MateriaDao_Impl.java
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview/database
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example/textview
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com/example
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/generated/ap_generated_sources/debug/out/com
+2025-10-26T22:38:58.316-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/6f3cf5bc4b174b96bdb3d853a2ebd2eed4c8db81ca680597020d1e33d06d55be_3.jar
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/6f3cf5bc4b174b96bdb3d853a2ebd2eed4c8db81ca680597020d1e33d06d55be_2.jar
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/6f3cf5bc4b174b96bdb3d853a2ebd2eed4c8db81ca680597020d1e33d06d55be_0.jar
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/6f3cf5bc4b174b96bdb3d853a2ebd2eed4c8db81ca680597020d1e33d06d55be_1.jar
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$3.dex
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao.dex
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$2.dex
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AppDatabase.dex
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$1.dex
+2025-10-26T22:38:59.628-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$5.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$4.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl$6.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$8.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$9.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$4.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$5.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AppDatabase_Impl.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$6.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$2.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$3.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$10.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl$1.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao_Impl.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$4.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$5.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AppDatabase_Impl$1.dex
+2025-10-26T22:38:59.629-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$7.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$6.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$2.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$3.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/StudyTaskDao.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/AvaliacaoDao_Impl$1.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database/MateriaDao_Impl.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/database
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/repository/StudyTaskRepository.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/repository/MateriaRepository.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/repository/AvaliacaoRepository.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/repository
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/SubjectsFragment.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/HomeFragment.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/StudyFragment$1.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/CalendarFragment.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/AboutFragment.dex
+2025-10-26T22:38:59.630-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/StudyFragment.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/SubjectsFragment$1.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments/ProfileFragment.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/fragments
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/MainActivity.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/utils/SharedPrefManager.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/utils/DateUtils.dex
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/utils
+2025-10-26T22:38:59.631-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models/Avaliacao.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models/StudyTask.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models/Student.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models/Materia.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models/User.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/models
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/MateriaAdapter$OnMateriaActionListener.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/AvaliacaoAdapter$AvaliacaoViewHolder.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/AvaliacaoAdapter$OnAvaliacaoClickListener.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/MateriaTempoAdapter$MateriaTempoViewHolder.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/MateriaAdapter$MateriaViewHolder.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/StudyTaskAdapter$StudyTaskViewHolder.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/AvaliacaoAdapter.dex
+2025-10-26T22:38:59.632-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/MateriaAdapter.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/StudyTaskAdapter.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/MateriaTempoAdapter.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters/StudyTaskAdapter$OnTaskActionListener.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/adapters
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/StudyTimerDialog$1.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddAvaliacaoDialog$OnAvaliacaoAddedListener.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/EditMateriaDialog.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddMateriaDialog.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddMateriaDialog$OnMateriaAddedListener.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddStudyTaskDialog.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/EditMateriaDialog$OnMateriaUpdatedListener.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/StudyTimerDialog.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddAvaliacaoDialog.dex
+2025-10-26T22:38:59.633-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs/AddStudyTaskDialog$OnTaskAddedListener.dex
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/dialogs
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/AboutActivity.dex
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/MainActivity$1.dex
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview/NotificationsActivity.dex
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/textview
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example
+2025-10-26T22:38:59.634-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com
+2025-10-26T22:38:59.941-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+2025-10-26T22:38:59.941-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+2025-10-26T22:38:59.942-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+2025-10-26T22:39:00.478-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/apk/debug/output-metadata.json
+2025-10-26T22:39:00.478-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources
+2025-10-26T22:39:00.478-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0
+2025-10-26T22:39:00.478-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt
+2025-10-26T22:39:00.479-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache
+2025-10-26T22:39:00.479-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/incremental/packageDebug/tmp/debug
+2025-10-26T22:39:00.479-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/apk/debug/app-debug.apk
+2025-10-26T22:39:00.479-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/apk/debug
+2025-10-26T22:39:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:02.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:02.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:02.240-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:02.240-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:02.501-0300 [DEBUG] [org.gradle.internal.watch.vfs.impl.WatchingVirtualFileSystem] Handling VFS change REMOVED /Users/gabrielferreira/projects/student-manager/app/build/intermediates/apk_ide_redirect_file/debug/createDebugApkListingFileRedirect/redirect.txt
+2025-10-26T22:39:12.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:32.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:42.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:39:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:39:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:39:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:12.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:32.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:32.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:32.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:36.941-0300 [DEBUG] [org.gradle.internal.remote.internal.inet.TcpIncomingConnector] Accepted connection from /127.0.0.1:55699 to /127.0.0.1:54264.
+2025-10-26T22:40:36.943-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 354: received class org.gradle.launcher.daemon.protocol.Build
+2025-10-26T22:40:36.943-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 354: Received non-IO message from client: Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}
+2025-10-26T22:40:36.943-0300 [INFO] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Received command: Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}.
+2025-10-26T22:40:36.943-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Starting executing command: Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager} with connection: socket connection from /127.0.0.1:54264 to /127.0.0.1:55699.
+2025-10-26T22:40:36.944-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Command execution: started DaemonCommandExecution[command = Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}, connection = DefaultDaemonConnection: socket connection from /127.0.0.1:54264 to /127.0.0.1:55699] after 12.7884 minutes of idle
+2025-10-26T22:40:36.944-0300 [INFO] [org.gradle.launcher.daemon.server.DaemonRegistryUpdater] Marking the daemon as busy, address: [f2971240-34e1-4cf7-96d6-8379f6085568 port:54264, addresses:[localhost/127.0.0.1]]
+2025-10-26T22:40:36.944-0300 [DEBUG] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Marking busy by address: [f2971240-34e1-4cf7-96d6-8379f6085568 port:54264, addresses:[localhost/127.0.0.1]]
+2025-10-26T22:40:36.944-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on daemon addresses registry.
+2025-10-26T22:40:36.945-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:36.945-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:36.945-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] resetting idle timer
+2025-10-26T22:40:36.945-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon is running. Sleeping until state changes.
+2025-10-26T22:40:36.946-0300 [INFO] [org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy] Daemon is about to start building Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}. Dispatching build started information...
+2025-10-26T22:40:36.946-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 356: dispatching org.gradle.launcher.daemon.protocol.BuildStarted@14880c2e
+2025-10-26T22:40:36.946-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment] Configuring env variables: [PATH, __CFBundleIdentifier, ASDF_DIR, SHELL, CPPFLAGS, OLDPWD, SECURITYSESSIONID, USER, COMMAND_MODE, LaunchInstanceID, TMPDIR, SSH_AUTH_SOCK, XPC_FLAGS, __CF_USER_TEXT_ENCODING, LOGNAME, LC_CTYPE, XPC_SERVICE_NAME, HOME]
+2025-10-26T22:40:36.947-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.LogToClient] About to start relaying all logs to the client via the connection.
+2025-10-26T22:40:36.947-0300 [INFO] [org.gradle.launcher.daemon.server.exec.LogToClient] The client will now receive all logging from the daemon (pid: 8815). The daemon log file: /Users/gabrielferreira/projects/student-manager/gradle/daemon/8.13/daemon-8815.out.log
+2025-10-26T22:40:36.948-0300 [INFO] [org.gradle.launcher.daemon.server.exec.LogAndCheckHealth] Starting 4th build in daemon [uptime: 23 mins 14.894 secs, performance: 98%, GC rate: 0.00/s, heap usage: 1% of 2 GiB]
+2025-10-26T22:40:36.948-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has started executing the build.
+2025-10-26T22:40:36.948-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] Executing build with daemon context: DefaultDaemonContext[uid=369098c6-7be4-461c-891f-787a133ae89d,javaHome=/Applications/Android Studio.app/Contents/jbr/Contents/Home,javaVersion=21,javaVendor=JetBrains s.r.o.,daemonRegistryDir=/Users/gabrielferreira/projects/student-manager/gradle/daemon,pid=8815,idleTimeout=10800000,priority=NORMAL,applyInstrumentationAgent=true,nativeServicesMode=ENABLED,daemonOpts=-Xmx2048m,-Dfile.encoding=UTF-8,-Duser.country=BR,-Duser.language=pt,-Duser.variant]
+/Users/gabrielferreira/projects/student-manager/app/src/main/java/com/example/textview/models/StudyTask.java:12: warning: materiaId column references a foreign key but it is not part of an index. This may trigger full table scans whenever parent table is modified so you are highly advised to create an index that covers this column.
+public class StudyTask {
+       ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 warning
+
+[Incubating] Problems report is available at: file:///Users/gabrielferreira/projects/student-manager/build/reports/problems/problems-report.html
+
+BUILD SUCCESSFUL in 3s
+32 actionable tasks: 9 executed, 23 up-to-date
+2025-10-26T22:40:40.611-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has finished executing the build.
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon is running. Sleeping until state changes.
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Command execution: finished waiting for DaemonCommandExecution[command = Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}, connection = DefaultDaemonConnection: socket connection from /127.0.0.1:54264 to /127.0.0.1:55699]. Result org.gradle.launcher.daemon.server.DaemonStateCoordinator@3deb4a08 with state Busy
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] Command execution: completed DaemonCommandExecution[command = Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}, connection = DefaultDaemonConnection: socket connection from /127.0.0.1:54264 to /127.0.0.1:55699]
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] resetting idle timer
+2025-10-26T22:40:40.614-0300 [INFO] [org.gradle.launcher.daemon.server.DaemonRegistryUpdater] Marking the daemon as idle, address: [f2971240-34e1-4cf7-96d6-8379f6085568 port:54264, addresses:[localhost/127.0.0.1]]
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.launcher.daemon.registry.PersistentDaemonRegistry] Marking busy by address: [f2971240-34e1-4cf7-96d6-8379f6085568 port:54264, addresses:[localhost/127.0.0.1]]
+2025-10-26T22:40:40.614-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire exclusive lock on daemon addresses registry.
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] daemon is running. Sleeping until state changes.
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.ReturnResult] Daemon is dispatching the build result: Success[value=org.gradle.launcher.exec.BuildActionResult@2511e4a2]
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 353: dispatching Success[value=org.gradle.launcher.exec.BuildActionResult@2511e4a2]
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.exec.CleanUpVirtualFileSystemAfterBuild] Cleaning virtual file system after build finished
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Finishing executing command: Build{id=d7d195cc-7727-477c-87a6-07b60e03d603, currentDir=/Users/gabrielferreira/projects/student-manager}
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 354: received class org.gradle.launcher.daemon.protocol.CloseInput
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 354: Received IO message from client: org.gradle.launcher.daemon.protocol.CloseInput@68e9d596
+2025-10-26T22:40:40.615-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 354: received class org.gradle.launcher.daemon.protocol.Finished
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 354: Received non-IO message from client: org.gradle.launcher.daemon.protocol.Finished@662e36fb
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultIncomingConnectionHandler] Received finished message: org.gradle.launcher.daemon.protocol.Finished@662e36fb
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 353: stopping connection
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.internal.remote.internal.inet.SocketConnection] Discarding EOFException: java.io.EOFException
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 354: received null
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.DefaultDaemonConnection] thread 354: Received end-of-input from client.
+2025-10-26T22:40:40.616-0300 [DEBUG] [org.gradle.launcher.daemon.server.SynchronizedDispatchConnection] thread 353: stopping connection
+2025-10-26T22:40:42.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:42.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:52.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:40:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:40:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:40:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:02.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:12.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:12.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:12.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:12.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:12.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:22.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:22.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:22.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:22.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:22.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:32.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:32.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:42.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:42.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:42.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:52.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:41:52.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:02.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:02.237-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:02.238-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:02.239-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:12.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:22.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:22.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:22.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:22.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:32.230-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:32.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:42.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:42.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:42.228-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:42.229-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:52.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:52.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:52.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:42:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:42:52.235-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:42:52.236-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:43:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:43:02.231-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:43:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:43:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:43:02.232-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:43:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+2025-10-26T22:43:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+2025-10-26T22:43:02.233-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired on daemon addresses registry.
+2025-10-26T22:43:02.234-0300 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.

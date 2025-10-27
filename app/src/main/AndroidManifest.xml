@@ -41,6 +41,16 @@
                 android:value=".MainActivity" />
         </activity>
 
+        <activity
+            android:name=".FeedbackActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:label="Enviar Feedback">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
     </application>
 
 </manifest>
