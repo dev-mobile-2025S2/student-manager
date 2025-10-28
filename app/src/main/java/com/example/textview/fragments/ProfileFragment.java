@@ -17,6 +17,7 @@ import androidx.fragment.app.Fragment;
 import com.example.textview.FeedbackActivity;
 import com.example.textview.NotificationsActivity;
 import com.example.textview.R;
+import com.example.textview.activities.LoginActivity;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.button.MaterialButton;
 
@@ -122,10 +123,13 @@ public class ProfileFragment extends Fragment {
     }
 
     private void performLogout() {
-        sharedPrefManager.clearUser();
+        sharedPrefManager.logout();
         Toast.makeText(requireContext(), "Logout realizado com sucesso", Toast.LENGTH_SHORT).show();
 
-        // Refresh the fragment to show default values
-        loadUserData();
+        // Navigate to login screen
+        Intent intent = new Intent(requireContext(), LoginActivity.class);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(intent);
+        requireActivity().finish();
     }
 }

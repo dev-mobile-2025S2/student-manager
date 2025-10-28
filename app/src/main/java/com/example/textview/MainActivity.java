@@ -11,26 +11,34 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
 
+import com.example.textview.activities.LoginActivity;
 import com.example.textview.fragments.AboutFragment;
 import com.example.textview.fragments.CalendarFragment;
 import com.example.textview.fragments.HomeFragment;
 import com.example.textview.fragments.ProfileFragment;
 import com.example.textview.fragments.StudyFragment;
 import com.example.textview.fragments.SubjectsFragment;
+import com.example.textview.models.User;
 import com.example.textview.utils.SharedPrefManager;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
+
+import android.view.View;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout drawerLayout;
     private BottomNavigationView bottomNavigation;
     private NavigationView navView;
+    private SharedPrefManager sharedPrefManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        sharedPrefManager = new SharedPrefManager(this);
 
         initViews();
         setupDrawer();
@@ -41,6 +49,13 @@ public class MainActivity extends AppCompatActivity {
         if (savedInstanceState == null) {
             loadFragment(new HomeFragment());
         }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        // Reload user data every time activity resumes
+        loadUserDataInDrawer();
     }
 
     private void initViews() {
@@ -141,14 +156,38 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void performLogout() {
-        SharedPrefManager sharedPrefManager = new SharedPrefManager(this);
-        sharedPrefManager.clearUser();
+        sharedPrefManager.logout();
 
         Toast.makeText(this, "Logout realizado com sucesso", Toast.LENGTH_SHORT).show();
 
-        // Reset to home fragment
-        loadFragment(new HomeFragment());
-        bottomNavigation.setSelectedItemId(R.id.navigation_home);
+        // Navigate to login screen
+        Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(intent);
+        finish();
+    }
+
+    private void loadUserDataInDrawer() {
+        // Post to ensure header view is fully inflated
+        navView.post(() -> {
+            View headerView = navView.getHeaderView(0);
+            if (headerView != null) {
+                TextView tvUserInitial = headerView.findViewById(R.id.tv_user_initial);
+                TextView tvUserName = headerView.findViewById(R.id.tv_user_name);
+                TextView tvUserEmail = headerView.findViewById(R.id.tv_user_email);
+
+                User user = sharedPrefManager.getUser();
+                if (user != null) {
+                    tvUserName.setText(user.getFullName());
+                    tvUserEmail.setText(user.getEmail());
+                    tvUserInitial.setText(user.getInitial());
+                } else {
+                    tvUserName.setText("Estudante");
+                    tvUserEmail.setText("estudante@email.com");
+                    tvUserInitial.setText("E");
+                }
+            }
+        });
     }
 
     private void setupBackPressedHandler() {
