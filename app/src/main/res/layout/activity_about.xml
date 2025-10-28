@@ -200,6 +200,28 @@
                     android:textColor="@android:color/darker_gray" />
             </LinearLayout>
 
+            <!-- Developer 6 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dev6_name"
+                    android:textSize="14sp"
+                    android:textColor="@android:color/black" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dev6_ra"
+                    android:textSize="12sp"
+                    android:textColor="@android:color/darker_gray" />
+            </LinearLayout>
+
             <!-- Copyright -->
             <TextView
                 android:layout_width="match_parent"

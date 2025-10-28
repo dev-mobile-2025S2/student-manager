@@ -13,33 +13,6 @@
         android:padding="24dp"
         android:gravity="center">
 
-        <!-- Logo/Icon Area -->
-        <com.google.android.material.card.MaterialCardView
-            android:layout_width="120dp"
-            android:layout_height="120dp"
-            android:layout_marginTop="48dp"
-            android:layout_marginBottom="32dp"
-            app:cardCornerRadius="60dp"
-            app:cardElevation="8dp"
-            app:cardBackgroundColor="@color/primary_blue">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:orientation="vertical">
-
-                <ImageView
-                    android:layout_width="64dp"
-                    android:layout_height="64dp"
-                    android:src="@android:drawable/ic_dialog_info"
-                    android:tint="@color/background_white"
-                    android:contentDescription="App Logo" />
-
-            </LinearLayout>
-
-        </com.google.android.material.card.MaterialCardView>
-
         <!-- Title -->
         <TextView
             android:layout_width="wrap_content"

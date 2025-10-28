@@ -266,6 +266,14 @@
                     android:layout_height="wrap_content"
                     android:text="João Guilherme Volta Kinol\nRA: 235255"
                     android:textColor="@color/text_secondary"
+                    android:textSize="12sp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Leonardo Bellotti Maffei\nRA: 224641"
+                    android:textColor="@color/text_secondary"
                     android:textSize="12sp" />
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
